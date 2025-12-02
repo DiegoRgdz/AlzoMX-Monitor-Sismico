@@ -1,24 +1,24 @@
-# AlzoMX 🌎⚡
+# AlzoMX: Monitor de Actividad Sismica 🌎
 
-Visualizador de actividad sísmica en tiempo real.
+Este proyecto permite la visualizacion de los ultimos sismos registrados por USGS (A nivel mundial) con la posibilidad de poder utilizar otras APIs para la visualizacion de datos con JSON y GeoJSON.
 
-## 🔍 Descripción
+## 🔍 Descripción detallada del Proyecto
 
 AlzoMX es una herramienta que muestra los **últimos sismos a nivel mundial** utilizando la API del **USGS**, con la posibilidad de integrar **más fuentes de datos** en el futuro.
 
-## 🚀 Características
+## 🚀 Características Generales
 
 * Consulta de sismos recientes.
 * Visualización en tiempo real.
 * Compatibilidad para múltiples proveedores de datos.
 * Interfaz moderna en modo oscuro.
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías utilizadas
 
-* **JavaScript / HTML / CSS**
-* **Mapbox** (mapa interactivo)
-* **API USGS**
-* **Firebase** (según implementación)
+* **JavaScript, HTML y CSS**
+* **Mapbox GL JS** (Mapa de datos)
+* **API de USGS**
+* **Firebase** (Actual implementación para Backend)
 
 ## 📦 Instalación
 
