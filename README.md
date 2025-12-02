@@ -1,4 +1,4 @@
-# AlzoMX: Monitor de Actividad Sismica 🌎
+# � AlzoMX: Monitor de Actividad Sismica 
 
 Este proyecto permite la visualizacion de los ultimos sismos registrados por USGS (A nivel mundial) con la posibilidad de poder utilizar otras APIs para la visualizacion de datos con JSON y GeoJSON.
 
