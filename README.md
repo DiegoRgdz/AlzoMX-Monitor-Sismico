@@ -15,24 +15,20 @@ AlzoMX centraliza de manera automática toda la información publicada por medio
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sismo Reportado**                      | - Epicentro, magnitud, profundidad<br>- Fecha y hora del evento<br>- Estimación de percepción en zonas cercanas<br>- Información adicional proporcionada por la agencia u organismo                                                                                                     |
 | **Boletines Sísmicos**                   | - Estación inicial, sensores/estaciones y total de sensores/estaciones<br>- Fecha y hora en que el sistema detectó el fenómeno<br>- Fotografía del mapa con sensores/estaciones activadas (sujeto a disponibilidad)<br>- Información adicional proporcionada por la agencia u organismo |
-| **Boletines NOAA / Eventos adicionales** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
+| **Boletines NOAA o otros eventos** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
 
 Esta informacion se publica de manera autonoma en el canal de Telegram oficial de AlzoMX. 
 
 
-### AlzoMX PWA
-Para uso personal. La app de monitoreo sísmico más confiable de México.
-Recibe alertas en tu celular hasta 120 segundos antes de un sismo fuerte, sin retrasos y de forma crítica.
+### PWA: Monitor AlzoMX
 
-![SASSLA App](https://github.com/sassla/sassla/blob/main/sassla_app.png)
+**Aplicación web de uso personal.** Somos la única PWA que centraliza la mayor cantidad de datos oficiales a nivel nacional, permitiendo observar y monitorear toda la información emitida por las autoridades de los países con mayor actividad sísmica, volcánica y otros fenómenos naturales.
 
-SASSLA App está disponible en iOS y Android. Es compatible con celulares y tablets Android, iPhone, iPod Touch, iPad y Apple Watch.
-Requiere iOS 15.0 y Android 5.0 o superior.
+Al ser una PWA (Progressive Web Application), Monitor AlzoMX es compatible con celulares, tabletas, computadoras y una amplia variedad de dispositivos electrónicos. El único requisito es contar con un navegador web.
 
-Descárgala gratis aquí:
+Accede a Monitor AlzoMX desde aqui:
 
-- [**iOS**](https://apps.apple.com/mx/app/sassla-sismos-en-tiempo-real/id1454877768)
-- [**Android**](https://play.google.com/store/apps/details?id=com.safelivealert.earthquake)
+- [**PWA**]( https://apps.apple.com/mx/app/sassla-sismos-en-tiempo-real/id1454877768](https://alzomx.icu/AlzoHazardsMonitor.html )
 
 Estadísticas:
 
