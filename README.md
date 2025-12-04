@@ -2,14 +2,12 @@
 
 ### Somos un proyecto privado orientado a los fenomenos naturales a nivel internacional, inicialmente creado para Mexico. Ofrecemos toda la informacion sobre fenomenos naturales en un solo punto a traves de una PWA.
 
-## Objetivo:
+## Objetivo del proyecto
 En todo el mundo existen organismos y medios dedicados a informar sobre los fenómenos naturales en cada país o territorio. Sin embargo, muchas personas enfrentan dificultades para acceder a esta información o desconocen cómo utilizar las plataformas oficiales disponibles.
 
 AlzoMX tiene como objetivo centralizar toda esta información en un solo punto y optimizar su visualización, permitiendo conocer los riesgos actuales a nivel mundial y seguir su evolución conforme las fuentes oficiales o reportes comunitarios lo informen. Todo esto se presenta a través de una interfaz de usuario intuitiva, diseñada para que cualquier persona pueda comprenderla e interactuar con facilidad. Además, buscamos educar a la sociedad sobre el origen y desarrollo de los fenómenos naturales.
 
-## Avisos de Riesgo
-
-### Automatización de la información
+## Automatización de la información
 
 AlzoMX centraliza de manera automática toda la información publicada por medios oficiales sobre los últimos sismos, boletines sísmicos y fenómenos en curso, incluyendo los siguientes detalles:
 
@@ -19,10 +17,10 @@ AlzoMX centraliza de manera automática toda la información publicada por medio
 | **Boletines Sísmicos**                   | - Estación inicial, sensores/estaciones y total de sensores/estaciones<br>- Fecha y hora en que el sistema detectó el fenómeno<br>- Fotografía del mapa con sensores/estaciones activadas (sujeto a disponibilidad)<br>- Información adicional proporcionada por la agencia u organismo |
 | **Boletines NOAA / Eventos adicionales** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
 
+Esta informacion se publica de manera autonoma en el canal de Telegram oficial de AlzoMX. 
 
 
-
-### SASSLA App
+### AlzoMX PWA
 Para uso personal. La app de monitoreo sísmico más confiable de México.
 Recibe alertas en tu celular hasta 120 segundos antes de un sismo fuerte, sin retrasos y de forma crítica.
 
