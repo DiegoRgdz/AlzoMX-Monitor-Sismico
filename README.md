@@ -24,7 +24,7 @@ AlzoMX recopila automáticamente información publicada por medios oficiales sob
 | **Boletines Sísmicos**             | - Estación inicial, sensores/estaciones y total de sensores/estaciones<br>- Fecha y hora en que el sistema detectó el fenómeno<br>- Fotografía del mapa con sensores/estaciones activadas (sujeto a disponibilidad)<br>- Información adicional proporcionada por la agencia u organismo |
 | **Boletines NOAA u otros eventos** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
 
-ℹ️ Toda esta información se publica automáticamente en el **canal oficial de Telegram de AlzoMX**.
+Toda esta información se publica automáticamente en el **canal oficial de Telegram de AlzoMX**.
 
 ---
 
@@ -32,7 +32,7 @@ AlzoMX recopila automáticamente información publicada por medios oficiales sob
 
 **Aplicación web de uso personal.** Somos la única PWA que centraliza la mayor cantidad de datos oficiales a nivel nacional y permite monitorear información de países con **alta actividad sísmica, volcánica y otros fenómenos naturales**.
 
-Al ser una **Progressive Web Application (PWA)**, Monitor AlzoMX es compatible con **celulares, tabletas, computadoras y una amplia variedad de dispositivos electrónicos**. Solo necesitas un navegador web. 🌐
+Al ser una **Progressive Web Application (PWA)**, Monitor AlzoMX es compatible con **celulares, tabletas, computadoras y una amplia variedad de dispositivos electrónicos**. Solo necesitas un navegador web. 
 
 **Accede a Monitor AlzoMX aquí:**
 
@@ -43,7 +43,7 @@ Al ser una **Progressive Web Application (PWA)**, Monitor AlzoMX es compatible c
 ## 📞 Contacto y soporte
 Si deseas obtener más información, compartir tu opinión sobre el proyecto o enviarnos alguna sugerencia, queja o aporte, por favor comunícate con nosotros. Tu opinión es muy importante ❤️.
 
-* 📧 Email: [diego.rgdl@gmail.com](mailto:diego.rgdl@gmail.com)
-* 💬 WhatsApp: +52 55 3221 1047
+* Email: [diego.rgdl@gmail.com](mailto:diego.rgdl@gmail.com)
+* WhatsApp: +52 55 3221 1047
 
 
