@@ -3,28 +3,24 @@
 ### Somos un proyecto privado orientado a los fenomenos naturales a nivel internacional, inicialmente creado para Mexico. Ofrecemos toda la informacion sobre fenomenos naturales en un solo punto a traves de una PWA.
 
 ## Objetivo:
-México posee el mejor Sistema de Alerta Temprana para Terremotos de todo el mundo, el [**Sistema de Alerta Sísmica Mexicano (SASMEX)**](http://www.cires.org.mx/sasmex_n.php).
+En todo el mundo existen organismos y medios dedicados a informar sobre los fenómenos naturales en cada país o territorio. Sin embargo, muchas personas enfrentan dificultades para acceder a esta información o desconocen cómo utilizar las plataformas oficiales disponibles.
 
-Nuestro objetivo es llevar la señal oficial a la mayor cantidad de personas posible a través de medios confiables y así promover la cultura de prevención y proteger a los ciudadanos del riesgo sísmico al que se enfrenta México.
+AlzoMX tiene como objetivo centralizar toda esta información en un solo punto y optimizar su visualización, permitiendo conocer los riesgos actuales a nivel mundial y seguir su evolución conforme las fuentes oficiales o reportes comunitarios lo informen. Todo esto se presenta a través de una interfaz de usuario intuitiva, diseñada para que cualquier persona pueda comprenderla e interactuar con facilidad. Además, buscamos educar a la sociedad sobre el origen y desarrollo de los fenómenos naturales.
 
-## Logros:
-Hoy [**SASSLA App**](https://www.sassla.mx/sasslaapp) es la única que permite entregar alertas tempranas de forma crítica, simultánea y sin retrasos, gracias a la [tecnología dedicada](https://www.sassla.mx/sasslaapp) a la recepción de la Alerta Sísmica de México que hemos desarrollado a lo largo de 8 años.
+## Avisos de Riesgo
 
-[Conoce la historia completa de SASSLA y sus desarrollos.](https://www.sassla.mx/nosotros)
+### Automatización de la información
 
-## Alertas en Tiempo Real:
-### Redes sociales
-Nuestras cuentas publican automáticamente al momento de un sismo. Te indican:
+AlzoMX centraliza de manera automática toda la información publicada por medios oficiales sobre los últimos sismos, boletines sísmicos y fenómenos en curso, incluyendo los siguientes detalles:
 
-- Posible epicentro
-- Pronóstico de intensidad en cada localidad
-- Tiempo Estimado de Llegada
-- Avance del sismo en tiempo real
+| Tipo de Aviso                            | Información Incluida                                                                                                                                                                                                                                                                    |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sismo Reportado**                      | - Epicentro, magnitud, profundidad<br>- Fecha y hora del evento<br>- Estimación de percepción en zonas cercanas<br>- Información adicional proporcionada por la agencia u organismo                                                                                                     |
+| **Boletines Sísmicos**                   | - Estación inicial, sensores/estaciones y total de sensores/estaciones<br>- Fecha y hora en que el sistema detectó el fenómeno<br>- Fotografía del mapa con sensores/estaciones activadas (sujeto a disponibilidad)<br>- Información adicional proporcionada por la agencia u organismo |
+| **Boletines NOAA / Eventos adicionales** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
 
-![SASSLA en redes sociales](https://github.com/sassla/sassla/blob/main/sassla_social.png)
 
-- Twitter: [*@SafeLiveAlert*](https://twitter.com/SafeLiveAlert)
-- Telegram: [*@SASSLA*](https://t.me/sassla)
+
 
 ### SASSLA App
 Para uso personal. La app de monitoreo sísmico más confiable de México.
