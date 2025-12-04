@@ -4,7 +4,7 @@
 
 Inicialmente creado para México, AlzoMX ofrece toda la información sobre fenómenos naturales en un solo punto a través de una **PWA** intuitiva y accesible.
 
-
+---
 
 ## 🎯 Objetivo del proyecto
 
@@ -12,6 +12,7 @@ A nivel mundial, existen organismos y medios que informan sobre fenómenos natur
 
 AlzoMX busca **centralizar toda esta información**, mejorar su visualización y permitir conocer los **riesgos actuales a nivel global**. La información se actualiza conforme a fuentes oficiales y reportes comunitarios, con una **interfaz intuitiva** para todo tipo de público. Además, educamos a la sociedad sobre el **origen y desarrollo de los fenómenos naturales**. 🌋🌪️🌊
 
+---
 
 ## ⚡ Automatización de la información
 
@@ -40,8 +41,9 @@ Al ser una **Progressive Web Application (PWA)**, Monitor AlzoMX es compatible c
 ---
 
 ## 📞 Contacto y soporte
+Si deseas obtener más información, compartir tu opinión sobre el proyecto o enviarnos alguna sugerencia, queja o aporte, por favor comunícate con nosotros. Tu opinión es muy importante ❤️.
 
-* 📧 Email: [rodriguez-diego@alzomx.icu](mailto:rodriguez-diego@alzomx.icu)
-* 💬 WhatsApp: [+52 55 3221 1047](https://wa.me/message)
+* 📧 Email: [diego.rgdl@gmail.com](mailto:diego.rgdl@gmail.com)
+* 💬 WhatsApp: +52 55 3221 1047
 
 
