@@ -1,6 +1,6 @@
 # AlzoMX: Monitor Sismico Global
 
-### Somos un proyecto privado orientado a los fenomenos naturales a nivel internacional, inicialmente creado para Mexico. Nuestro proyecto ofrece toda la informacion sobre fenomenos naturales en un solo punto a travez de una PWA.
+### Somos un proyecto privado orientado a los fenomenos naturales a nivel internacional, inicialmente creado para Mexico. Ofrecemos toda la informacion sobre fenomenos naturales en un solo punto a traves de una PWA.
 
 ## Objetivo:
 México posee el mejor Sistema de Alerta Temprana para Terremotos de todo el mundo, el [**Sistema de Alerta Sísmica Mexicano (SASMEX)**](http://www.cires.org.mx/sasmex_n.php).
