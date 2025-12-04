@@ -1,6 +1,8 @@
 # AlzoMX: Monitor Sismico Global
 ### SASSLA es un proyecto de iniciativa privada orientado a la Protrección Civil en México. Ofrecemos en un sólo lugar la información oficial emitida por las autoridades competentes en el ámbito sísmico y volcánico.
 
+### AlzoMX es un Proyecto privado orientado a los fenomenos naturales a nivel internacional, inicialmente creado para Mexico. Nuestro proyecto ofrece toda la informacion sobre fenomenos naturales en un solo punto a travez de una PWA.
+
 ## Objetivo:
 México posee el mejor Sistema de Alerta Temprana para Terremotos de todo el mundo, el [**Sistema de Alerta Sísmica Mexicano (SASMEX)**](http://www.cires.org.mx/sasmex_n.php).
 
