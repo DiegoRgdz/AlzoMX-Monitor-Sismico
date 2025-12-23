@@ -24,7 +24,7 @@ AlzoMX recopila automáticamente información publicada por medios oficiales sob
 | **Boletines Sísmicos**             | - Estación inicial, sensores/estaciones y total de sensores/estaciones<br>- Fecha y hora en que el sistema detectó el fenómeno<br>- Fotografía del mapa con sensores/estaciones activadas (sujeto a disponibilidad)<br>- Información adicional proporcionada por la agencia u organismo |
 | **Boletines NOAA u otros eventos** | - Información adicional proporcionada por la agencia u organismo                                                                                                                                                                                                                        |
 
-Toda esta información se publica automáticamente en el **canal oficial de Telegram de AlzoMX**.
+Toda esta información se publica automáticamente en el **canal oficial de Telegram de AlzoMX**. SUJETO A DISPONIBILIDAD DE SERVIDORES.
 
 ---
 
